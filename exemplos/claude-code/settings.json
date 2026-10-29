@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [{ "type": "command", "command": "node C:/caminho/para/fish-audio-voice-agents/hook.js claude" }]
+      }
+    ],
+    "Notification": [
+      {
+        "hooks": [{ "type": "command", "command": "node C:/caminho/para/fish-audio-voice-agents/hook.js claude" }]
+      }
+    ]
+  }
+}
